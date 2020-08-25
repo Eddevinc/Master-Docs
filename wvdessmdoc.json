@@ -2,7 +2,7 @@
   {
     "Name": "Microsoft WVD Essentials",
     "Language": "English",
-    "BaseURL": "https://github.com/SpektraSystems/WVD-Essentials",
+    "BaseURL": "https://github.com/Eddevinc/WVD-Essentials",
     "Files": [
       {
         "RawFilePath": "https://raw.githubusercontent.com/Eddevinc/WVD-Essentials/master/00-OVERVIEW.md",

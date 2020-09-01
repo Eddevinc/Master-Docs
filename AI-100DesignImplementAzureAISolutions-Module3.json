@@ -1,0 +1,14 @@
+[
+  {
+    "Name": "AI-100 Design Implement Azure AI Solutions - Module 3",
+    "Language": "English",
+    "BaseURL": "https://github.com/GhumanNavneet/AI-100-Design-Implement-Azure-AISol/tree/madan",
+    "Files": [
+      {
+        "RawFilePath": "https://raw.githubusercontent.com/GhumanNavneet/AI-100-Design-Implement-Azure-AISol/madan/Lab5-QnA/02-QnAMaker_Setup.md",
+        "Order": 1
+      },
+      
+    ]
+  }
+]

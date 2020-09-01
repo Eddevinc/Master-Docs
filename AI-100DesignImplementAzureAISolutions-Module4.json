@@ -1,0 +1,17 @@
+[
+  {
+    "Name": "AI-100 Design Implement Azure AI Solutions - Module 4",
+    "Language": "English",
+    "BaseURL": "https://github.com/GhumanNavneet/AI-100-Design-Implement-Azure-AISol/tree/madan",
+    "Files": [
+      {
+        "RawFilePath": "https://raw.githubusercontent.com/GhumanNavneet/AI-100-Design-Implement-Azure-AISol/madan/Lab6-Implement_LUIS/02-Implement_LUIS.md",
+        "Order": 1
+      },
+      {
+        "RawFilePath": "https://raw.githubusercontent.com/GhumanNavneet/AI-100-Design-Implement-Azure-AISol/madan/Lab7-Integrate_LUIS/02-LUIS_Integrate_Bot.md",
+        "Order": 2
+      },
+    ]
+  }
+]
